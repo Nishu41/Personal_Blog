@@ -2,9 +2,9 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import BannerImage1 from '../assets/images/pexels-expect-best-351264.jpg'
-import BannerImage2 from '../assets/images/pexels-markus-spiske-2990644.jpg'
-import BannerImage3 from '../assets/images/pexels-pixabay-248547.jpg'
+import BannerImage1 from '../assets/images/banner1.png'
+import BannerImage2 from '../assets/images/banner2.jpg'
+import BannerImage3 from '../assets/images/banner3.jpg'
 
 export default function Banner() {
   var settings = {
