@@ -20,7 +20,7 @@ export default function Home() {
       <div className='flex flex-col gap-6 p-28 px-3 max-w-6xl mx-auto'>
         <h1 className='text-3xl font-extrabold lg:text-6xl'>Welcome to Nishitha Blog</h1>
         <p className='text-gray-500 text-md sm:text-sm'>
-          Welcome to our blog website, where you can find a diverse range of content covering sports, politics, business, and aid-related topics. From the latest developments in sports to the pulse of politics, innovations in the business world, and discussions on aid and support issues, we offer comprehensive information and analysis to cater to everyone's interests.
+          Hi, I’m Nishitha! 🌸 This is my little space to share stories, experiences, and all the interesting things that spark joy in my life. Whether it's lessons learned from everyday adventures, fascinating discoveries, or heartfelt reflections, you'll find it all here.
         </p>
         <Link
           to='/search'
